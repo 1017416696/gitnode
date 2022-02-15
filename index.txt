@@ -1,2 +1,2 @@
 Hello
-This is a master branch!
+This is a hot-fix branch!
