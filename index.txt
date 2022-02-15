@@ -1,2 +1,2 @@
 Hello
-This is a hot-fix branch!
+This is the hot-fix branch!
