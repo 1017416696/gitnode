@@ -1,3 +1,4 @@
 Hello
 This is a master branch!
 I do not know why!
+This is the hot-fix branch!
